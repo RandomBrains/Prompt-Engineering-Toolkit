@@ -26,7 +26,7 @@ pip install prompt-engineering-toolkit
 ### Install from Source
 
 ```bash
-git clone https://github.com/WolfgangDremmler/prompt-engineering-toolkit.git
+git clone https://github.com/RandomBrains/prompt-engineering-toolkit.git
 cd prompt-engineering-toolkit
 pip install -e .
 ```
@@ -34,7 +34,7 @@ pip install -e .
 ### Development Installation
 
 ```bash
-git clone https://github.com/WolfgangDremmler/prompt-engineering-toolkit.git
+git clone https://github.com/RandomBrains/prompt-engineering-toolkit.git
 cd prompt-engineering-toolkit
 pip install -e ".[dev]"
 ```
@@ -816,8 +816,8 @@ To contribute new red team prompts:
 
 ### Reporting Issues
 
-Please report bugs and feature requests through [GitHub Issues](https://github.com/WolfgangDremmler/prompt-engineering-toolkit/issues).
+Please report bugs and feature requests through [GitHub Issues](https://github.com/RandomBrains/prompt-engineering-toolkit/issues).
 
 ---
 
-For more information, visit our [GitHub repository](https://github.com/WolfgangDremmler/prompt-engineering-toolkit) or check out the [online documentation](https://prompt-engineering-toolkit.readthedocs.io/).
+For more information, visit our [GitHub repository](https://github.com/RandomBrains/prompt-engineering-toolkit) or check out the [online documentation](https://prompt-engineering-toolkit.readthedocs.io/).
