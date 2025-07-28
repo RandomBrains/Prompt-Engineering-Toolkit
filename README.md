@@ -208,7 +208,7 @@ MIT License - see LICENSE file
 
 - Issues: GitHub Issues
 - Discussions: GitHub Discussions
-- Email: your-email@example.com
+- Email: randombrain489@gmail.com
 
 ---
 
