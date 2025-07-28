@@ -57,7 +57,7 @@ pet --version
 Install directly from the GitHub repository:
 
 ```bash
-pip install git+https://github.com/WolfgangDremmler/prompt-engineering-toolkit.git
+pip install git+https://github.com/RandomBrains/prompt-engineering-toolkit.git
 ```
 
 ### Method 3: Local Development Installation
@@ -66,7 +66,7 @@ For development or customization:
 
 ```bash
 # Clone the repository
-git clone https://github.com/WolfgangDremmler/prompt-engineering-toolkit.git
+git clone https://github.com/RandomBrains/prompt-engineering-toolkit.git
 cd prompt-engineering-toolkit
 
 # Install in editable mode
@@ -79,10 +79,10 @@ Use the pre-built Docker image:
 
 ```bash
 # Pull the image
-docker pull wolfgangdremmler/prompt-engineering-toolkit:latest
+docker pull RandomBrains/prompt-engineering-toolkit:latest
 
 # Run with API key
-docker run -e OPENAI_API_KEY="your-key" wolfgangdremmler/prompt-engineering-toolkit pet --help
+docker run -e OPENAI_API_KEY="your-key" RandomBrains/prompt-engineering-toolkit pet --help
 ```
 
 ### Method 5: Conda Installation
@@ -280,7 +280,7 @@ pip install "prompt-engineering-toolkit[all]"
 
 1. **Clone and install in development mode**:
    ```bash
-   git clone https://github.com/WolfgangDremmler/prompt-engineering-toolkit.git
+   git clone https://github.com/RandomBrains/prompt-engineering-toolkit.git
    cd prompt-engineering-toolkit
    pip install -e ".[dev]"
    ```
@@ -526,7 +526,7 @@ If you encounter issues not covered here:
 
 1. **Check the logs**: Look in `~/.pet/logs/pet.log` for detailed error information
 2. **Enable debug mode**: Set `PET_LOG_LEVEL=DEBUG` environment variable
-3. **Search GitHub Issues**: Check existing issues at https://github.com/WolfgangDremmler/prompt-engineering-toolkit/issues
+3. **Search GitHub Issues**: Check existing issues at https://github.com/RandomBrains/prompt-engineering-toolkit/issues
 4. **Create a new issue**: Include:
    - Operating system and version
    - Python version (`python --version`)
