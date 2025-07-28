@@ -17,7 +17,7 @@ We take the security of the Prompt Engineering Toolkit seriously. If you discove
 
 **Please do NOT report security vulnerabilities through public GitHub issues.**
 
-Instead, please report security vulnerabilities by emailing: **security@prompt-engineering-toolkit.org**
+Instead, please report security vulnerabilities by emailing: **randombrain489@gmail.com**
 
 Include the following information in your report:
 - Description of the vulnerability
@@ -114,12 +114,12 @@ We would like to thank the following security researchers for responsibly disclo
 ### Contact Information
 
 For security-related questions or concerns:
-- **Email**: security@prompt-engineering-toolkit.org
+- **Email**: randombrain489@gmail.com
 - **PGP Key**: Available upon request
 - **Response Time**: Within 48 hours
 
 For general questions about security practices:
-- Open a discussion in [GitHub Discussions](https://github.com/WolfgangDremmler/prompt-engineering-toolkit/discussions)
+- Open a discussion in [GitHub Discussions](https://github.com/RandomBrains/prompt-engineering-toolkit/discussions)
 - Tag your question with "security"
 
 ### Legal
